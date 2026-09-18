@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Neighborhood Listing Platform</h1>
+      <h1>Neighborhood Listing Platform - Local Community</h1>
       <p>Helping neighbors discover useful local information in one simple place.</p>
 
       <section className="cards" aria-label="Main features">
